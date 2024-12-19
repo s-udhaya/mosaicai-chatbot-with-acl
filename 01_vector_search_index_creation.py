@@ -62,6 +62,11 @@ except Exception as e:
 # COMMAND ----------
 
 # MAGIC %md
+# MAGIC ###  🛑 index creation will take a couple of minutes, wait until the index is created
+
+# COMMAND ----------
+
+# MAGIC %md
 # MAGIC ### Test the index
 
 # COMMAND ----------

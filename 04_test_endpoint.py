@@ -1,24 +1,8 @@
 # Databricks notebook source
 # MAGIC %md
 # MAGIC # Test Endpoint
-# MAGIC This notebooks calls the endpoint deployed in the ``01_define_ai_pipeline_endpoint`` passing different ``users`` to test if the ACLs are applied
 # MAGIC
-# MAGIC <b>NOTE</b>: the deployed endpoint should be up and runing before this notebook is executed
-
-# COMMAND ----------
-
-# MAGIC %pip install -U -qqqq mlflow
-# MAGIC dbutils.library.restartPython()
-
-# COMMAND ----------
-
-# MAGIC %md
-# MAGIC ###Test deployed EndPoint
-
-# COMMAND ----------
-
-# MAGIC %md
-# MAGIC Helper function to call endpoint passing different security groups
+# MAGIC ###  🛑 The deployed endpoint should be up and runing before this notebook is executed
 
 # COMMAND ----------
 
@@ -33,11 +17,7 @@ databricks_resources = conf.get("databricks_resources")
 
 import os
 import requests
-import numpy as np
-import pandas as pd
 import json
-import mlflow
-
 
 ## Defining endpoint name
 serving_endpoint_name = databricks_resources.get("chatbot_endpoint_name")
