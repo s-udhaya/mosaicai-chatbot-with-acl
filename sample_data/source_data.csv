@@ -64,8 +64,8 @@ dbfs:/Volumes/main/rag_acl_demo/source_docs/ABC_Finance_Department_Intro.pdf;"In
  These  responsibilities  are  overseen  by  Jane  Smith,  CFO,  and  John  Doe,  Financial  Planning  and 
  Analysis  Manager,  who  work  closely  with  the  company's  business  leaders  to  ensure  that 
  financial considerations are integrated into all aspects of the business. 
- 5. Role in Supporting the Company's Strategy",c52586ffcbdef99478b389120751d2ad,Finance
-dbfs:/Volumes/main/rag_acl_demo/source_docs/ABC_Finance_Department_Intro.pdf,"includes  Chris  Taylor,  Financial  Reporting  Analyst,  and  Amy  Patel,  Senior  Financial 
+ 5. Role in Supporting the Company's Strategy";c52586ffcbdef99478b389120751d2ad;Finance
+dbfs:/Volumes/main/rag_acl_demo/source_docs/ABC_Finance_Department_Intro.pdf;"includes  Chris  Taylor,  Financial  Reporting  Analyst,  and  Amy  Patel,  Senior  Financial 
  Reporting Analyst. 
  ●  Compliance:  responsible  for  ensuring  that  the  company  is  adhering  to  all  relevant  laws, 
  regulations,  and  standards.  This  team  is  led  by  Mark  Hall,  Compliance  Manager,  and 
@@ -180,8 +180,8 @@ dbfs:/Volumes/main/rag_acl_demo/source_docs/ABC_HR_Department_Intro.pdf;"Introdu
  These  responsibilities  are  overseen  by  Emily  Chen,  CHRO,  and  David  Lee,  HR  Manager,  who 
  work  closely  with  the  company's  business  leaders  to  ensure  that  HR  considerations  are 
  integrated into all aspects of the business. 
- 5. Role in Supporting the Company's Strategy",780c60cdf3df2b1375d6f9c7b94fbe58,HR
-dbfs:/Volumes/main/rag_acl_demo/source_docs/ABC_HR_Department_Intro.pdf,"Learning  and  Development  Manager,  and  includes  Samantha  Johnson,  Learning  and 
+ 5. Role in Supporting the Company's Strategy";780c60cdf3df2b1375d6f9c7b94fbe58;HR
+dbfs:/Volumes/main/rag_acl_demo/source_docs/ABC_HR_Department_Intro.pdf;"Learning  and  Development  Manager,  and  includes  Samantha  Johnson,  Learning  and 
  Development Specialist, and Daniel Lee, Training Coordinator. 
  ●  HR  Operations:  responsible  for  managing  the  company's  HR  systems,  processes,  and 
  data.  This  team  is  led  by  Kevin  White,  HR  Operations  Manager,  and  includes  David  Kim, 
