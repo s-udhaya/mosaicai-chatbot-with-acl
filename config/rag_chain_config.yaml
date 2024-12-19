@@ -1,9 +1,9 @@
 databricks_resources:
-  catalog: main
-  schema: acl_demo
+  catalog: main # change this to your catalog name
+  schema: acl_demo # change this to your schema name
   chunked_data_table: chatbot_acl_chunked_data
-  llm_endpoint_name: databricks-dbrx-instruct
-  vector_search_endpoint_name: one-env-shared-endpoint-15
+  llm_endpoint_name: databricks-dbrx-instruct # optional(change this to your model endpoint name)
+  vector_search_endpoint_name: one-env-shared-endpoint-15 # change this to your vector search endpoint name
   embedding_endpoint_name: databricks-gte-large-en
   vector_search_index: chatbot_acl_vs_index
   model_name: chatbot_with_acl
