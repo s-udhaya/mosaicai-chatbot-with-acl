@@ -5,6 +5,11 @@
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC ### 🛑 Make sure to update the `./config/rag_chain_config.yaml` with the relevant values.
+
+# COMMAND ----------
+
 import yaml
 from pathlib import Path
 
